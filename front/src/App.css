@@ -1,0 +1,21 @@
+body {
+  padding: 5px 10px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  border: 1px solid #eee;
+  padding: 5px;
+  margin: 5px;
+  width: 400px;
+}
+
+
+
+.btn-container{
+  display: flex;
+  justify-content: space-between;
+}
